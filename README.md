@@ -8,6 +8,8 @@
    <p>- HTML</p>
    <br>
    <p>- CSS</p>
-   
+   <br>
 
 <img src="https://raw.githubusercontent.com/OzielCosta-Dev/We-Care/5e4b28899ce4a9ec0398d67ffd56d7f82e822276/img/dog.png"/>
+
+
